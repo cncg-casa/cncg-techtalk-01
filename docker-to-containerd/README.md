@@ -1,5 +1,6 @@
 # From Docker to Containerd migration
 
+The following instructions are for the deployment of a kubernetes cluster with vagrant, virtualbox and kubeadm
 
 #### Prerequisites :
 
