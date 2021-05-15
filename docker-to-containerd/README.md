@@ -3,8 +3,8 @@
 #### Prerequisites :
 ```
 Git
-vagrant
-vitualbox
+[vagrant](https://www.vagrantup.com/downloads)
+[vitualbox](https://www.virtualbox.org/wiki/Downloads)
 kubectl v1.21.0
 ```
 
