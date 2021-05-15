@@ -3,11 +3,10 @@
 
 #### Prerequisites :
 
-- [Git](https://git-scm.com/downloads)
-- [vagrant](https://www.vagrantup.com/downloads)
+- [git](https://git-scm.com/downloads)
 - [vitualbox](https://www.virtualbox.org/wiki/Downloads)
+- [vagrant](https://www.vagrantup.com/downloads)
 - [kubectl](https://kubernetes.io/docs/tasks/tools/) v1.21.0
-
 
 
 #### Instructions :
