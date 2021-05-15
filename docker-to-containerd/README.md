@@ -1,11 +1,12 @@
 # From Docker to Containerd migration
 
 #### Prerequisites :
-
+```
 Git
 vagrant
 vitualbox
 kubectl v1.21.0
+```
 
 
 #### Instructions :
